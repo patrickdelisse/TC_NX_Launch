@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <TC_ver>12</TC_ver>
+  <TC_server>\\RHENIUM</TC_server>
+  <TC_Env>Production Environment</TC_Env>
+  <TC_bat>PLMShare\PLM_Startup\Startups\bin\_KMWE_PLM_start.bat</TC_bat>
+  <TC_portal>4TPortal</TC_portal>
+  <TC_NXman>4TManager</TC_NXman>
+  <TC_FixedNX>yes</TC_FixedNX>
+  <TC_FixedNXver>12</TC_FixedNXver>
+  <NXselect>
+    <Versions>
+      <NX_AppName>NX 8.0</NX_AppName>
+      <NX_AppName>NX 8.5</NX_AppName>
+      <NX_AppName>NX 9.0</NX_AppName>
+      <NX_AppName>NX 10.0</NX_AppName>
+      <NX_AppName>NX 11.0</NX_AppName>
+      <NX_AppName>NX 12.0</NX_AppName>
+    </Versions>
+    <Groups>
+      <GroupName>AeroEngine</GroupName>
+      <GroupName>Components</GroupName>
+      <GroupName>Projects</GroupName>
+      <GroupName>-none-</GroupName>
+    </Groups>
+  </NXselect>
+</root>
